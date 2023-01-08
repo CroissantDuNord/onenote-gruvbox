@@ -8,15 +8,17 @@
  ---
  
 [<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%208.svg?token=GHSAT0AAAAAAB4442ET2IYNRFN2AUJATV3GY53IOGQ" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
+[<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%208.svg?token=GHSAT0AAAAAAB4442ET2IYNRFN2AUJATV3GY53IOGQ" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
 
-*Click on the badge to view the UserSyle*
+
+*Click on the badge to view the UserSytle*
 
 ---
 
 
 ## Install Guide
 
-1. Install Stylus [Firefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/) [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+1. Install Stylus Download: [Firefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/)  [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 2. Click on the "Aviable on stylus" badge and install userstyle! 
 3. Done 🎉
 
