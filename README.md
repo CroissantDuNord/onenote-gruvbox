@@ -7,8 +7,8 @@
  
  ---
  
-[<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%208.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
-[<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%208.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/discord-adblock/main/adblock.css)
+[<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%208.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/userstyle.css)
+[<img src="https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/media/Group%209.svg" width="180">](https://raw.githubusercontent.com/CroissantDuNord/onenote-gruvbox/main/userstyle.css)
 
 
 *You can click on the badges*
