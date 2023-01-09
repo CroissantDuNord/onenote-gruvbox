@@ -28,4 +28,3 @@
 ## Issues
 
 You can report issues, in the issues tab
-
