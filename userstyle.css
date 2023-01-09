@@ -1,0 +1,77 @@
+/* ==UserStyle==
+@name           GruvBox - Google
+@namespace      https://github.com/CroissantDuNord/onenote-gruvbox
+@version        1.0.3
+@description    Onenote with the dark gruvbox color
+@preprocessor   stylus
+@author         https://github.com/CroissantDuNord
+==/UserStyle== */
+
+.WACInteractiveView {
+    background-color: #282828;
+}
+
+.NormalTextRun {
+    color: #fbf1c7;
+}
+
+.windowtext {
+    color: #fbf1c7
+}
+
+
+.navPane__mainArea___cuuB- {
+	background-color: #3c3836;
+	border-right: 1px solid #504945;
+}
+
+.SectionColumn__twoPaneColumn___N1iG4 {
+	border-right: 1px solid #504945;
+}
+
+
+.mainHeader__header___HPagE {
+	border-bottom: 1px solid #504945;
+	color: #fbf1c7;
+}
+
+.sectionGroup__item___fDMJT {
+	color: #fbf1c7;
+}
+
+.navItem__item___grP1L {
+	color: #fbf1c7;
+}
+
+.mainItem__navItembackgroundSelected___\+kz92 {
+	background-color: #ffffff14;
+}
+
+.createItem__oldContent___DyVN- {
+	color: #fbf1c7;
+}
+
+.createItem__controlContainer___OxBuK {
+	border-top: 1px solid #504945;
+}
+
+.navPane__snackBar___\+x6eZ {
+	background-color: #3c3836;
+	border-right: 1px solid #504945;
+}
+
+.navPane__snackBarButton___8sX8M {
+	background-color: #3c3836;
+}
+
+.navPane__OneNotePurple___yqPpq, .navPane__OneNoteGrey___HBt-b {
+	fill: #fbf1c7;
+}
+
+
+.root-239 .themedBtn-label {
+	color: #fbf1c7;
+}
+
+
+
